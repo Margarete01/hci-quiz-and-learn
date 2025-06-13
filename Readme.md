@@ -40,6 +40,7 @@ Running on http://127.0.0.1:7990
 ### Run the frontend
 
 `cd my-angular-app `
+
 `ng serve `
 
 
